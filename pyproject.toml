@@ -1,12 +1,12 @@
 [project]
-name = "Iterator-Nodes"                   
-version = "2.0.3"                          
+name = "Iterator-Nodes-MrPepe"           # Unique variation
+version = "2.0.4"
 description = "Nodes that are very useful for iterative workflows"
-license = {text = "MIT License"}        
+license = {text = "MIT License"}
 
 [project.urls]
-Repository = "https://github.com/mr-pepe69/Iterator-Nodes"
+Repository = "https://github.com/mr-pepe69/ComfyUI-SelectStringFromListWithIndex"
 
 [tool.comfy]
 PublisherId = "mr-pepe69"
-DisplayName = "Iterator Nodes"            
+DisplayName = "Iterator Nodes (MrPepe)"
