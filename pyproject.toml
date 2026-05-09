@@ -1,8 +1,8 @@
 [project]
-name = "ComfyUI-SelectStringFromListWithIndex"
-description = "Simple counter, constant number, logic boolean, and string from list nodes — no WAS dependency"
-version = "2.0.0"
+name = "Iterator Nodes"
+version = "2.0.2"          
+description = "Nodes that are very usefull for iterative workflows"
 
 [tool.comfy]
-DisplayName = "ComfyUI-SelectStringFromListWithIndex"
-Icon = ""
+PublisherId = "mr-pepe69"     
+DisplayName = "Iterator Nodes"
