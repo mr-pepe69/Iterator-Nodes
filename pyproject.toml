@@ -1,8 +1,12 @@
 [project]
-name = "Iterator-Nodes"
-version = "2.0.2"          
-description = "Nodes that are very usefull for iterative workflows"
+name = "Iterator-Nodes"                   
+version = "2.0.3"                          
+description = "Nodes that are very useful for iterative workflows"
+license = {text = "MIT License"}        
+
+[project.urls]
+Repository = "https://github.com/mr-pepe69/Iterator-Nodes"
 
 [tool.comfy]
-PublisherId = "mr-pepe69"     
-DisplayName = "Iterator-Nodes"
+PublisherId = "mr-pepe69"
+DisplayName = "Iterator Nodes"            
